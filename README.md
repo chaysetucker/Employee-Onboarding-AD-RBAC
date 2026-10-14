@@ -9,7 +9,7 @@ Northstar Medical Group (NMG) is a simulated healthcare company that was growing
 For this project, I built a basic employee onboarding environment in Active Directory for NMG. I created the NMG.com domain and organized users into Finance, HR, IT, and Operations OUs. I also created security groups for each department and used a flat Role Based Access Control (RBAC) model to manage access. Users were provisioned into the appropriate OU and security group based on their role instead of being given access individually. I also worked through a simulated incident where a user was assigned the wrong permissions, identified the cause, and corrected their OU and security group assignments.
 
 ## Video Walkthrough
-[Add your video walkthrough link placeholder here. You will record this tomorrow and update this link so visitors can see a live demonstration of your lab environment.]
+https://www.loom.com/share/f1d168661d3a45d0b7ffd3c590b9d449
 
 ## Tools Used
 
